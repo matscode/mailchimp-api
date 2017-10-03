@@ -148,8 +148,8 @@ class MList extends MailChimp
                 'email_address' => $email,
                 'merge_fields'  =>
                     [
-                        'FNAME' => $firstName ? $firstName : '',
-                        'LNAME' => $lastName ? $lastName : ''
+                        'FNAME' => $firstName,
+                        'LNAME' => $lastName 
                     ],
                 'status'        => $status,
             ];
