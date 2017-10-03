@@ -2,7 +2,8 @@
 
 /**
  *
- * This Class definition is strictly for MailChimp List management with higher level of abtraction.
+ * This Class definition is strictly for MailChimp List management with less codes but higher level of abtraction.
+ * @todo Unit Test
  *
  * @package        MailChimp
  * @author         Michael Akanji <matscode@gmail.com>
