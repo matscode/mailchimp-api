@@ -3,12 +3,13 @@
 /**
  *
  * This Class definition is strictly for MailChimp List management with less codes but higher level of abtraction.
- * @todo Unit Test
+
  *
  * @package        MailChimp
  * @author         Michael Akanji <matscode@gmail.com>
  * @date           2017-10-01
- *
+ * @todo           Unit Test
+ * 
  */
 namespace DrewM\MailChimp;
 
